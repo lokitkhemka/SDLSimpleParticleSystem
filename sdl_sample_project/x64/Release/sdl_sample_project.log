@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\drive\fem_stuff\cpp purcell course\sdl_project\sdl_sample_project\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Particle.cpp
+  Screen.cpp
+  Swarm.cpp
+  Generating code
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sdl_sample_project.vcxproj -> D:\Drive\FEM_Stuff\CPP Purcell Course\SDL_Project\x64\Release\sdl_sample_project.exe

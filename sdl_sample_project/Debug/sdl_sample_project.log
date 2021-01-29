@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\drive\fem_stuff\cpp purcell course\sdl_sample_project\main.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+d:\drive\fem_stuff\cpp purcell course\sdl_sample_project\main.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+d:\drive\fem_stuff\cpp purcell course\sdl_sample_project\main.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  sdl_sample_project.vcxproj -> D:\Drive\FEM_Stuff\CPP Purcell Course\Debug\sdl_sample_project.exe
